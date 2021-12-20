@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Deep-Learning-and-the-Game-of-Go
 
 This is a small sample book to give you a feel for how book content is
 structured.
